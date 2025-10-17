@@ -22,5 +22,5 @@ pyproject.lock
 # Jupyter Checkpoints 
 .ipynb_checkpoints/
 
-# folder data
+# folder  data
 data/
